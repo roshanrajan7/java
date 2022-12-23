@@ -1,0 +1,10 @@
+class Lab11
+{
+  public static void main(String[] as)
+   {
+      int a=Integer.parseInt(as[0]);
+      System.out.println(" a is "+a);
+ 
+
+     }
+       }
